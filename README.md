@@ -4,7 +4,7 @@
 
 ![Fabricio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciofbmendes&show_icons=true&theme=radical)
 
-### Tecnologia que uso no meu dia
+### Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
   
